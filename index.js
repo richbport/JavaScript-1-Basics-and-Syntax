@@ -1,4 +1,3 @@
-const a = 10;
-const b = 2.5;
+const str = "21"
 
-console.log(Math.ceil(b));
+console.log(typeof parseInt(str));
