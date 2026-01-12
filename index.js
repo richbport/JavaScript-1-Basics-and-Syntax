@@ -5,3 +5,6 @@ let userAge = 20; // number
 
 // Output greeting
 console.log(welcomeMessage + ", " + userName + "!"); // string concantenation
+
+// Using operators
+let nextYearAge = userAge + 1; // arithmetic operator
