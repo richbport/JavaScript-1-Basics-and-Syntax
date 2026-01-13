@@ -1,3 +1,3 @@
-const str = "21.9"
+const str = "Hello"
 
-console.log(Number(str)); // 21.9
+console.log(str.toUpperCase()); // HELLO
