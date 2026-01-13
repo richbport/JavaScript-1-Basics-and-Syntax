@@ -1,3 +1,3 @@
-const str = "21"
+const str = "21.9"
 
-console.log(typeof parseInt(str));
+console.log(Number(str)); // 21.9
