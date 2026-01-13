@@ -1,3 +1,3 @@
-const str = "Hello"
+const integer = 21
 
-console.log(str.toLocaleUpperCase()); // HELLO
+console.log(typeof integer.toString()); // string
