@@ -1,3 +1,3 @@
 const str = "Hello"
 
-console.log(str.toLowerCase()); // hello
+console.log(str.toLocaleUpperCase()); // HELLO
